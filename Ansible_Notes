@@ -1,0 +1,9 @@
+Configuration Management:
+============================
+THis is the process of completly configuring software application on remote servers.
+Advantages:
+-----------------
+1) Provisioning of Servers
+2) HandlingSnowFLake servers
+3) Disaster Recovery
+4) Idempotent
